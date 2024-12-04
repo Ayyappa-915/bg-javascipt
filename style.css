@@ -1,0 +1,45 @@
+#h1
+            {
+                font-size: x-large;
+                font-weight: bolder;
+                color: black;
+                margin-top: 4cm;
+            }
+            body
+            {
+                background-color: cyan;
+            }
+            #h2
+            {
+                font-size: x-large;
+                font-weight: bolder;
+                color: black;
+            }
+            #d1
+            {
+                font-size: x-large;
+                color: red;
+                font-weight: bold;
+                margin-left: 25cm;
+            }
+            #b1
+            {
+                background-color: white;
+                color: black;
+                border-style: double;
+                border-radius: 0.3cm;
+                font-style: italic;
+                font-weight: bold;
+                border-width: 0.2cm;
+                font-size: larger;
+            }
+            #b1:hover
+            {
+                background-color: black;
+                color: white;
+                border-color: white;
+            }
+            i
+            {
+                color:navy;
+            }
